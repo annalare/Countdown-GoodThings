@@ -1,6 +1,6 @@
 # CountDown Timer :timer_clock:
 
-Timer to my aniversary!!! :birthday:
+Timer to my birthday!!! :birthday:
 
 # Tools
 
